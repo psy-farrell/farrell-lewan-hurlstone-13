@@ -31,4 +31,10 @@ The data files don't have very useful names (they haven't been touched or pretti
 | t | Farrell & Lewandowsky (in press), Experiment 2 |    datarsp.txt
 | u | Farrell & Lewandowsky (in press), Experiment 3 |   serialretrieval.txt
 
+## Condition codes for (a) and (b)
+
+**(a) normed1201.txt**: Condition codes (3rd column): 0 = all dissimilar; 1=all similar; 2 = D item at 2nd positio; 3 = D item at 4th position; 4 = D item at 6th position; 5 = alternating SDSDSD
+
+**(b) psim2dat.ed**: Condition codes (3rd column): 0 = all dissimilar; 2 = D item at 2nd positio; 3 = D item at 4th position; 5 = alternating SDSDSD
+
 Prepared by Simon Farrell, 28/04/14, simon.farrell@uwa.edu.au
